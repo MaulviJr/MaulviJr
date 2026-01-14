@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Abdul Hadi  
 
-💻 I’m a **Software Development Enthusiast** passionate about problem-solving through code.  
-🌱 Currently learning **React** and working towards becoming a **Full Stack Developer (2025 goal)**.  
-🚀 Projects I've worked on: **Car Rental App (JavaFX)** **Library Management System C++** and  **KU Connect – Student Resource App (MERN Stack)**.  
+💻 I’m a **Web Development Enthusiast** passionate about problem-solving through code.  
+🌱 Currently working on **MERN** based Projects, making a **Youtube Clone** these days.  
+🚀 Projects I've worked on: **Car Rental App (JavaFX)**, **Library Management System C++**,  **KU Connect – Student Resource App (MERN Stack)**, and **A Simple Blog App on React Js** .  
 
 ---
 
