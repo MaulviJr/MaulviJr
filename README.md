@@ -24,8 +24,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaulviJr&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaulviJr&layout=compact&theme=tokyonight)  
+![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaulviJr&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaulviJr&layout=compact&theme=tokyonight)
 
 ---
 
