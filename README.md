@@ -23,11 +23,5 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaulviJr&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaulviJr&layout=compact&theme=tokyonight)
-
----
-
 ## 🌍 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-hadi-khan-614568257/)
