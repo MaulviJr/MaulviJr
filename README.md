@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdul Hadi  
 
 💻 I’m a **Web Development Enthusiast** passionate about problem-solving through code.  
-🌱 Currently working on **MERN** based Projects, making a **Youtube Clone** these days.  
+🌱 Currently working on **MERN** based Projects, working on building a scalable LMS for an educational institute named **Info Channel**
 🚀 Projects I've worked on: **KU Connect – Student Resource App (MERN Stack)**, **Car Rental App (JavaFX)**, **Library Management System C++**, and **A Simple Blog App on React Js**.  
 
 ---
